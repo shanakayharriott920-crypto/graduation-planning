@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+ <head>
+     
+<title> Fouth Form graduation planning</title>
+ <meta charset="UTF-8">
+  
+<style>
+
+body
+ {font-family: arial, sans-serif;
+  margin: 0; background-color: #f2f2f2; }
+     
+ header
+ {background-color: #003366
+ color: white;
+ padding: 20px;
+ text-align; center;}
+                
+section
+ {background-color: white;
+  margin: 20px;
+ padding: 20px
+ border-radius; 8px }
+
+  h2 {
+     color: #003366;
+     }
+               
+Footer {
+      background-color: 3003366
+      color: white;
+      text-align: center;
+      padding: 10px;
+      }
+                
+ a {
+    color: #0066cc;
+    text-decoration: none;
+
+    }
+ a:hover {
+        text-decorations: underline;
+         }
+
+ </style>  
+             
+ </head>
+
+<body>
+
+<header>
+<h1>fourth form graduation planning</h1>
+<p>Year Group Supervisor Information Page</p>
+</header>
+
+<section>
+
+
+<h2>welcome to Fourth Form</h2>
+<p>
+  Welcome students and parents to fourth
+ form. This webpage was created to keep you informed about
+ graduation planning activities and important
+ information concerning the csec 
+ programme.
+ </p>
+ </section>
+
+ <section>
+ <h2>CXC, CSEC and CAPE programme</h2>
+
+ <p><strongCXC</strong> (Caribbean Examinations Council) is the regional body
+ responsible for examinations in the caribbean.</p>
+
+<p><strong>CSEC</strong> (Caribbean Secondary Education Certificate) examination are
+taken at the end of fifth form are required for graduation.</p>
+
+     
+<p><strong>CAPE/strong> (caribbean Advanced Proficiency Examination) is taken in
+ sixth Form and prepare students for tertiary education.</p></section>
+
+<section>
+ <h2>graduation Requirements</h2>
+  <ul>
+ <li>Minimum of five (5)CESC subjects</li>
+ <li>mathematics and english are compulsory</li>
+ <li>At least 75% attendance record</li>
+ </li>Participation in school activities</li)
+
+ <li>All school fees must be paid</li>
+ </ul>
+</section>
+
+<section>
+<h2>Form Teacher & parent Representatives</h2>)
+
+ <h3>Form 4A</h3>
+ <p>Form Teacher Mr. Brown</p>
+ <p>parent Representative: Mrs. Thomas</p>
+ </section>
+ <h2>Useful Links</h2>
+
+   <p>
+   Visit our school Website:
+   <a href="https://www.schoolwebsite.com" target="_blank">
+    click here
+   </a>
+
+   </p>
+                                
+   <p>
+   Download School Handbook:
+   <a href="school_handbook.pdf" download>
+      Download PDF
+
+   </a>
+   </p>
+   </section>
+
+ <section>
+ <h2>contact the coordinator</h2>
+ <p>
+ to send an Email:
+ <a href="mailto:coordinator@school.com">
+   coordinator@school.com
+ </a>
+ </p>
+ </section>
+
+  <footer>
+  <p>&copy; 2026 Fourth Form Graduation Planning
+    page</p>
+   </footer>
+
+</body>
+</html>
